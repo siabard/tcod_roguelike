@@ -1,0 +1,10 @@
+[package]
+name = "tcod_roguelike"
+version = "0.1.0"
+authors = ["Yeonho Jang <siabard@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tcod = "0.15"
